@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "abhinanda.gp",
+    "MONGO_PASSWORD": "Rapid@12345",
+    "MONGO_DATABASE": "restaurantApp",
+    "SENDGRID_KEY": "YOUR_SENDGRID_API_KEY"
+  }
+}
